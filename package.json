@@ -1,6 +1,6 @@
 {
   "name": "tough-cookie-filestore",
-  "version": "0.1",
+  "version": "0.0.2",
   "description": "file store for tough-cookie",
   "main": "index.js",
   "author": {
