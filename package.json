@@ -1,0 +1,13 @@
+{
+  "name": "tough-cookie-filestore",
+  "version": "0.1",
+  "description": "file store for tough-cookie",
+  "main": "index.js",
+  "author": {
+    "name": "DrJest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tough-cookie": "~2.3.0"
+  }
+}
